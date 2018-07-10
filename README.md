@@ -1,5 +1,5 @@
 # Neural Texture Synthesis by Gatys et al. Chainer 4.0 
-[Chainer v4.0](https://github.com/chainer/chainer) implementation of "Image Style Transfer Using Convolutional Neural Networks(2016)" by Gatys et al.
+[Chainer v4.0](https://github.com/chainer/chainer) implementation of "Texture Synthesis Using Convolutional Neural Networks(2015)" by Gatys et al.
 
 [Texture Synthesis Using Convolutional Neural Networks. Gatys, L.A. et al(2015)](https://arxiv.org/pdf/1505.07376.pdf) 
 
