@@ -9,25 +9,11 @@
  
  ## Results
  ### Original Image
- hourly bell at Kawagoe city Japan. 
+ pebbles. http://www.cns.nyu.edu/~lcv/texture/color/
  
-<img src="https://farm1.staticflickr.com/886/27469269047_17ef5222d0_b.jpg" width="300" alt="Hour Bell at Kawagoe , Japan"> 
+<img src="https://github.com/TetsuyaOdaka/texture-synthesis-gatys/blob/master/images/pebble.jpg" width="256" alt="Pebbles"> 
 
- ### Style 1
- "Starry Night" by Van Gogh.
- 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" width="500" alt="Starry Night by Van Gogh"> 
-
- ### Result 1
-<img src="https://farm1.staticflickr.com/967/42291281042_3b5b2d0c1c_z.jpg" width="300" alt="Hour Bell at Kawagoe , Japan">
- 
- ### Style 2
- "Gardanne" by Paul Cezanne. 
- 
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Paul_Cezanne_Gardanne.jpg" width="500" alt="Gardanne by Paul Cezanne">
- 
- ### Result 2
- <img src="https://farm1.staticflickr.com/978/42339298931_6ab769df7d_z.jpg" width="300" alt="Hour Bell at Kawagoe , Japan">
+ ### Synthesized Image
 
  ## 
  GPU: GeForce GTX1080i 
