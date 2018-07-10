@@ -50,7 +50,7 @@
  **Shape of images must be square.**
 
 ## Parameters
-See [source](https://github.com/TetsuyaOdaka/style-transfer-gatys/blob/master/generate.py)
+See [source](https://github.com/TetsuyaOdaka/texture-synthesis-gatys/blob/master/generate_texture.py)
 
 
 # Acknowlegement
