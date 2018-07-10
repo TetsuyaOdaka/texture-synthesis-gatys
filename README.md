@@ -1,7 +1,7 @@
 # Neural Texture Synthesis by Gatys et al. Chainer 4.0 
 [Chainer v4.0](https://github.com/chainer/chainer) implementation of "Image Style Transfer Using Convolutional Neural Networks(2016)" by Gatys et al.
 
-[Image Style Transfer Using Convolutional Neural Networks. Gatys, L.A. et al(2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) 
+[Texture Synthesis Using Convolutional Neural Networks. Gatys, L.A. et al(2015)](https://arxiv.org/pdf/1505.07376.pdf) 
 
 
  The purpose is further research of Gatsy's article. 
@@ -32,7 +32,7 @@
  ## 
  GPU: GeForce GTX1080i 
  
- Elapsed Time: about 12min for generating 600px squared image. 
+ Elapsed Time: about 100sec for generating 256px squared image. 
  
  
 
@@ -45,7 +45,7 @@
 - cuDNN6.0+
 
 ## Generate Transferred Image 
-`python generate.py -i images/tokinokane600.jpg -s [dir_path]/style.png -o [dir_path for output] -g 0` 
+`python generate_texture.py -w 256 --iter 3000 -s [dir_path]/pebble.jpg -o [dir_path for output] -g 0` 
  
  **Shape of images must be square.**
 
