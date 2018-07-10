@@ -6,14 +6,19 @@
 
  The purpose is further research of Gatsy's article. 
  So source code keeps very simple for modification and for that reason, the sophisticated functions of chainer(i.e. updater, trainer) are not used.
- 
+
+
  ## Results
  ### Original Image
  pebbles. http://www.cns.nyu.edu/~lcv/texture/color/
  
-<img src="https://github.com/TetsuyaOdaka/texture-synthesis-gatys/blob/master/images/pebble.jpg" width="256" alt="Pebbles"> 
+<img src="https://github.com/TetsuyaOdaka/texture-synthesis-gatys/blob/master/images/pebble.jpg" width="256" alt="pebbles"> 
 
  ### Synthesized Image
+ 
+<img src="https://github.com/TetsuyaOdaka/texture-synthesis-gatys/blob/master/samples/texture_pebble_pool4_vgg_4.00_256_im_2999.jpg" width="256" alt="synthesizeed pebbles"> 
+
+
 
  ## 
  GPU: GeForce GTX1080i 
@@ -21,7 +26,7 @@
  Elapsed Time: about 100sec for generating 256px squared image. 
  
  
-
+ 
 # Usage 
 ## Environment
 - python3.5 (3.0+)
