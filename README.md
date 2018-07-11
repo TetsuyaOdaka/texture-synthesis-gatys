@@ -4,8 +4,8 @@
 [Texture Synthesis Using Convolutional Neural Networks. Gatys, L.A. et al(2015)](https://arxiv.org/pdf/1505.07376.pdf) 
 
 
- The purpose is further research of Gatsy's article. 
- So source code keeps very simple for modification and for that reason, the sophisticated functions of chainer(i.e. updater, trainer) are not used.
+ The purpose is further research of amazing Gatsy's article. 
+ So source codes are simple for modification and for that reason, sophisticated functions of chainer(i.e. updater, trainer) are not used.
 
 
  ## Results
